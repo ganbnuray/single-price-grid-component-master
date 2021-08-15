@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/single-price-grid-component-with-html5css3flexbox-and-grid-gndnQhQCE](https://www.frontendmentor.io/solutions/single-price-grid-component-with-html5css3flexbox-and-grid-gndnQhQCE)
+- Live Site URL: [https://single-price-grid-component-master-ganbnuray.vercel.app/](https://single-price-grid-component-master-ganbnuray.vercel.app/)
 
 ### Built with
 
